@@ -65,6 +65,9 @@ dist/
 *.swo
 *.swn
 
+# WebM video files
+*.webm
+
 # Operating System files
 .DS_Store
 Thumbs.db
