@@ -65,3 +65,15 @@
 * Designed to enhance portability by promoting vendor independence.
 
 * Standards-compliant vendors are expected to support this required behaviour but the standard will generally not specify HOW it should be implemented
+
+##### JDBC: Java Database Connectivity
+
+    * JDBC packages are a key offering found in java.sql and included as port of the standard Java distribution.
+
+    * This package facilitates database-neutral interaction with a relational database.
+
+    * The package provides a set of interfaces that have been standardized by the JDBC specification.
+
+    * The required behaviour is specified by the specification.
+
+    * The actual implementation of this behaviour is determined by the database vendor or some other standards-compliant 3rd party.
